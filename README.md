@@ -5,10 +5,9 @@
 
 ### I'm a Software Developer  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 I am currently working with JavaScript technologies such as Node.js, Express.js, Nest.js, React, etc.
+- 📚 I am currently immersed in learning best practices in software development. 😅
+- 💪🏼 Future goals: Learn more technologies - Never stop creating new ideas.
 
 ---
 
